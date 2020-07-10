@@ -1,14 +1,11 @@
 {
+  "getUser": [
+    { "user_email": "sathish2103@gmail.com" },
+    { "user_password": "Sathish2103" }
+  ],
   "getProjects": [
     { "id": 1, "title": "Shipping" },
     { "id": 2, "title": "Camera" },
     { "id": 3, "title": "Project 365" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
